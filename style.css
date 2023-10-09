@@ -137,7 +137,7 @@
         height: 100%;
     }
     #imgAvatar{
-        width: 500px;
+        width: 390px;
     }
     #quemsou{
         height: 100%;
@@ -168,6 +168,9 @@
     }
     #projetos{
         height: 100%;
+    }
+    .cards-projetos{
+        width: 100%;
     }
 }
 
